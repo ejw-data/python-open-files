@@ -1,6 +1,23 @@
-# Python File Management
+# Python File Management  
+
+Auhtor:  Erin James Wills, ejw.data@gmail.com 
+
+![File Management](./images/py-openfiles1.png)  
+
+
+## Overview  
+<hr>
+This repo is actually just a collection of notes related to opening files and handling text strings in python.  Topics include base library methods, pandas, sqlalchemy, and sql.    
+
+This is a work in progress and used for compiling and recording useful resources.  
+
+<br>
+
+## Reading Large Files
 
 *Refs:*  https://www.kaggle.com/code/rohanrao/tutorial-on-reading-large-datasets/notebook  
+
+<br>
 
 ## Paths in Python
 

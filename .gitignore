@@ -1,7 +1,13 @@
-# Mac Files
+# Ignore all hidden files
+.*
+
+# Do not exlude this hidden file
+!.gitignore
+
+# Mac related hidden files
 .DS_Store
 
-# Google
+# Google Drive
 desktop.ini 
 
 # Byte-compiled / optimized / DLL files
